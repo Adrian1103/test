@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="MBC"
-https://skt030.pca.wavve.com/v2/1/live/55/0000000M01/OFDjUQwu3CEFI_3ofYO66g/1722607404/AVC-FHD_5M-TS-KO-221026000000.m3u8
+https://skt030.pca.wavve.com/v2/1/live/55/0000000M01/OFDjUQwu3CEFI_3ofYO66g/1722607404/AVC-FHD_5M-TS-KO-221026000000/live.m3u8?seek=0
 #EXTINF:-1 tvg-name="SBS"
 https://skt012.pca.wavve.com/v2/1/live/4Y/0000000K02/VMpcGGQqVA5s9Qvl2tj53w/1722602751/AVC/FHD_5M/TS/KO/221026000000/live.m3u8?seek=0
 #EXTINF:-1 tvg-name="KBS2"
